@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=thaddeusjiang&show_icons=true&icon_color=00a8a6&text_color=00a8a6&bg_color=ffffff&hide_title=true" />
+
+- 💻Creating web system and web site
+- 💬Speaking 🇨🇳🇺🇸🇯🇵
+- 👯Good at team work
+- 🌱Learning how to become a pragmatic programer
+
 <!--
 **ThaddeusJiang/ThaddeusJiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
