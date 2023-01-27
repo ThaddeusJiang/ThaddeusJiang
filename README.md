@@ -4,9 +4,9 @@
 
 I live in Japan🇯🇵.
 
-- 👤 I'm a full-stack engineer, good at JavaScript, learning Elixir and Clojure.
-- 📝 I'm writing a blog, visit https://thaddeusjiang.com/
-- ❤️ I'm using TiddlyWiki, Excalidraw, BulletJournal and so on.
+- 👤 I'm a full-stack engineer and product manager, good at JavaScript and good at Scrum.
+- 📝 I'm writing a blog in Chinease https://thaddeusjiang.com/, in Japanese https://scrapbox.io/ThaddeusJiang/
+- ❤️ I'm using TiddlyWiki, Excalidraw, Twitter and so on.
 
 
 <!--
