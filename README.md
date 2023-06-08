@@ -4,12 +4,11 @@
 
 My name is Thaddeus Jiang (中文名：[蒋继发](https://twitter.com/ThaddeusJiang), 日本語の氏名：[天海 はら](https://twitter.com/amami_hara)).
 
-
-
-- 👤 I'm a full-stack engineer and product manager, good at JavaScript and good at Scrum.
-- 📝 I'm writing a blog in Chinease https://thaddeusjiang.com/ .
-- ❤️ I'm using TiddlyWiki, Excalidraw, paper and pen, and more.
-
+- 👤 I'm a freelance developer in Japan.
+- 💬 Chat with me anytime: https://www.aier.app/chat/ThaddeusJiang
+- 📫 How to reach me: https://twitter.com/ThaddeusJiang
+- 🔭 I’m currently working on [AIER](https://www.aier.app/) 
+- 👯 My Selected Projects: [Insuite](https://www.insuite.jp/ise/), [zenport](https://zenport.io/), [teamLab Ticketing System](https://www.team-lab.com/ticket/), [SmartCompany](https://smartcompany.jp/).
 
 <!--
 **ThaddeusJiang/ThaddeusJiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
