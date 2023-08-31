@@ -4,8 +4,8 @@
 
 My name is **Thaddeus Jiang**
 
-- 👤 Freelance developer in Japan.
-- 📝 Blog(in Chinese): https://thaddeusjiang.com
+- 👤 Freelance developer in Japan
+- 🗣️ Speak Chinease🇨🇳, Japanese🇯🇵 and English🇺🇸
+- 💻 I am good at JS/TS(React, Node.js), RDB/NoSQL(PostgreSQL, CosmosDB) and Elixirlang.
 - 💬 Ask me anything: https://www.aier.app/chat/ThaddeusJiang
-- 🔭 I’m currently working on [AIER](https://www.aier.app/), #OCPI
-- 👯 My Selected Projects: [Insuite](https://www.insuite.jp/ise/), [zenport](https://zenport.io/), [teamLab Ticketing System](https://www.team-lab.com/ticket/), [SmartCompany](https://smartcompany.jp/), [plugo.co.jp](https://plugo.co.jp).
+- 👯 My Selected Projects: [aier.app](https://www.aier.app/), [teamLab Ticketing System](https://www.team-lab.com/ticket/), [plugo.co.jp](https://plugo.co.jp), [SmartCompany](https://smartcompany.jp/), [Insuite](https://www.insuite.jp/ise/), [zenport](https://zenport.io/)
