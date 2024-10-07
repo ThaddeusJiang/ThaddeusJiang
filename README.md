@@ -12,7 +12,7 @@ I am **ThaddeusJiang**
 Know me:
 
 * Blog: https://thaddeusjiang.com
-* AIer.app: https://aier.app/avatars/ThaddeusJiang
+* AIer.app: https://aier.app/chat/ThaddeusJiang
 
 Connect me:
 
