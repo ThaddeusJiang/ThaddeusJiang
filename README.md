@@ -6,7 +6,7 @@ I am **ThaddeusJiang**
 > 📧 thaddeusjiang[at]gmail.com
 
 * 🤘 Good at Web development both frontend and backend, familiar with Database, Infra and MicroServices.
-* 🙋‍♂️ Good at Software Architecture, design & implemented Ticketing System, HR SaaS, IoT(OCPI, OCPP) 
+* 🙋‍♂️ Good at Software Architecture, design & implemented Ticketing System, HR SaaS, IoT(OCPI, OCPP)
 * 😁 Speak Japanese🇯🇵, English🇺🇸 and Chinese🇨🇳.
 
 Know me:
@@ -19,7 +19,7 @@ Connect me:
 * Email: thaddeusjiang[at]gmail.com
 * X.com: https://x.com/ThaddeusJiang
 
-Personal Projects: 
+Personal Projects:
 
 * [AIer.app](https://www.aier.app) - An AI-driven personal agent that leverages your experiences, knowledge, and perspectives.
 * [Vmemo.app](https://vmemo.app) - A visual memory tool that lets you search images using natural language and no typing needed.
@@ -32,8 +32,5 @@ Other Projects
 * [Zenport](https://zenport.io) - グローバルサプライチェーンの全データを一括管理
 * [Insuite](https://www.insuite.jp) - 5000名以上の大企業に圧倒的な支持を受けるコミュニケーションプラットフォーム
 
-# Stats
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=thaddeusjiang" />
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaddeusjiang&hide=html" />
+<!--START_SECTION:my_github-->
+<!--END_SECTION:my_github-->
