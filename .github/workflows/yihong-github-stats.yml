@@ -25,8 +25,8 @@ jobs:
           # we need set GITHUB_TOKEN
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           # if you also want to send TELE
-          TELEGRAM_TOKEN: ${{ secrets.TELE_TOKEN }}
-          TELEGRAM_CHAT_ID: ${{ secrets.TELE_CHAT_ID }}
+          # TELEGRAM_TOKEN: ${{ secrets.TELE_TOKEN }}
+          # TELEGRAM_CHAT_ID: ${{ secrets.TELE_CHAT_ID }}
           STARRED_NUM: ${{ env.STARRED_NUM }}
 
       - name: Push README
