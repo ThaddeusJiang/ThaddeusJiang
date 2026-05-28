@@ -12,7 +12,7 @@ Freelance full-stack developer in Japan, 🤝 looking for opportunities.
 Personal Projects:
 
 * [Vmemo.app](https://vmemo.app) - Vision-Driven Memo App
-* [ZipcodeJP](https://github.com/ThaddeusJiang/ZipcodeJP) - 日本の郵便番号を検索できるサービス
+* [ZipcodeJP](https://github.com/ThaddeusJiang/ZipcodeJP) - 世界一番はやい郵便番号検索サービス
 * [AIer](https://github.com/ThaddeusJiang/AIer) - Train AI with your own data, for PKM, Second Brain and etc.
 
 Other Projects:
